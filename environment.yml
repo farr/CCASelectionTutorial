@@ -1,0 +1,15 @@
+name: CCASelectionTutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - aesara
+  - arviz
+  - astropy
+  - jupyterlab
+  - numpy
+  - pymc=4
+  - scipy
+  - seaborn
+prefix: /Users/wfarr/miniconda3/envs/CCASelectionTutorial
