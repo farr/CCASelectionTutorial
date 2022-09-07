@@ -4,3 +4,5 @@
 
 
 A companion to a lecture I gave at CCA GW group meeting showing how to analyze catalogs subject to selection effects.
+
+You can run (and play with) my notebook by clicking on the Binder badge above.
